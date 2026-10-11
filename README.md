@@ -1,10 +1,10 @@
 # PaNasMs Raspberry Pi 5 + Penta SATA HAT case
 
-Pavlo Matviienko's working case adaptation for a compact DIY NAS built with a Raspberry Pi 5 and Radxa Penta SATA HAT. The original case was modified to improve cooling. This repository preserves the working CAD files, including separate fan-frame variants for 5010 and 6015 fans.
+Pavlo Matviienko's working case adaptation for a compact DIY NAS built with a Raspberry Pi 5 and Radxa Penta SATA HAT. Pavlo redesigned the case to improve airflow through the enclosure and cooling of the NAS components, particularly the disk bay. This repository preserves the working CAD files, including separate fan-frame variants for 5010 and 6015 fans.
 
 ## Origin
 
-Based on the [Radxa Penta SATA HAT NAS Case on GrabCAD](https://grabcad.com/library/radxa-penta-sata-hat-nas-case-1). Credit for the original design belongs to its original creators. This is a community adaptation, not an official Radxa product.
+The starting point for this adaptation was the [Radxa Penta SATA HAT NAS Case on GrabCAD](https://grabcad.com/library/radxa-penta-sata-hat-nas-case-1). Credit for the original design belongs to its original creators; the airflow and cooling modifications in this working set were made by Pavlo Matviienko. This is a community adaptation, not an official Radxa product.
 
 See the [PaNasMs build guide](https://panasms.github.io/hardware/rpi_radxa_penta/) for assembly photos, components and cooling wiring, and the [PaNasMs project](https://panasms.github.io/) for the NAS management software.
 
