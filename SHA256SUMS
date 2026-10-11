@@ -1,0 +1,16 @@
+27eed36fc03ba04660b14bd8e6fd861f325cffaed1f36f251fe6dee9d0dfa497  cad/solidworks/01-upper-outer-shell.SLDPRT
+5067864e33c37bd86971083a35b141d120c734e88d253a3c7247c08c3e2207f8  cad/solidworks/02-top-cover.SLDPRT
+2ce5660c27993e62c391af37704ee2eabaae346170e8530bf6f327ee32513bb4  cad/solidworks/07-upper-inner-frame.SLDPRT
+43b4bc0ea23f1d5934331d42ae2ba3f8262d9d164cb51fb676cd604c9840a307  cad/solidworks/08-lower-outer-shell.SLDPRT
+aa485b39ced3fd84d8e5a40d0cdc31ee1633eb28155a75aa7dec2f7faab07363  cad/solidworks/09-lower-inner-frame-5010fan.SLDPRT
+7371bdabe01a41e3a63c5824a436b5b00a675c9d1c1bfca75e9f21d9c401ef66  cad/solidworks/09-lower-inner-frame-6015fan.SLDPRT
+a034309c624e66bd3ebb70a520999fcfa795d8339fd3fe60830f4f0e1f09c55b  cad/step/01-upper-outer-shell.step
+aa94d4b2ed0cf6e5186c815dd79a19ff827dc3b38ee175eb634f6bc8916e7d54  cad/step/02-top-cover.step
+8244f163dcec8bc9e300e9a3c0b992ea8744977e5a6b4554646641dc8aa20380  cad/step/03-corner-insert-a.step
+b60aa2c3d90f95d194bc0c8d1178f038b402f1c8211a71ac882047b0031853c8  cad/step/04-corner-insert-b.step
+9905dae6a7c3f51ab4d5535a3639585b9c268fc07c036b789d735ad6ebc48990  cad/step/05-corner-insert-c.step
+4d737a3eed346af43b88fe39d17c3c99d28886195a44c545e2b7d20194c30c91  cad/step/06-corner-insert-d.step
+7856ad3f5fe0cd6618ac23a49e667869516df9d994736d904a1116c4b0e05062  cad/step/07-upper-inner-frame.step
+6d0d5fb90dcc5b48ee19777b78b170659527b0e36c1ff8ebd23f5570452d1185  cad/step/08-lower-outer-shell.step
+54350c88eb9734b59b3289c04d507503dbf3a28d31b31a9a6e55e1b224127449  cad/step/09-lower-inner-frame-5010fan.step
+435c91cc33deb06ee0af51c567a59028010029d650d4201eecb751534b7e09b3  cad/step/09-lower-inner-frame-6015fan.STEP
